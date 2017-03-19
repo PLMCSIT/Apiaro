@@ -1,0 +1,1 @@
+E. Analdi, E. Mayoraz, D. de Werra, “Discrete Applied Mathematics: A review of combinatoral problems arising in feedforward neural network design,” Lausanne, Switzerland (1994).
